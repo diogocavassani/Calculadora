@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projetos - PontoSys\\Calculadora\\src\\Calculadora.WebAppMVC\\Calculadora.WebAppMVC.csproj": {}
+    "C:\\Users\\Diogo\\Source\\Repos\\Calculadora\\src\\Calculadora.WebAppMVC\\Calculadora.WebAppMVC.csproj": {}
   },
   "projects": {
-    "d:\\Projetos - PontoSys\\Calculadora\\src\\Calculadora.WebAppMVC\\Calculadora.WebAppMVC.csproj": {
+    "C:\\Users\\Diogo\\Source\\Repos\\Calculadora\\src\\Calculadora.WebAppMVC\\Calculadora.WebAppMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projetos - PontoSys\\Calculadora\\src\\Calculadora.WebAppMVC\\Calculadora.WebAppMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Diogo\\Source\\Repos\\Calculadora\\src\\Calculadora.WebAppMVC\\Calculadora.WebAppMVC.csproj",
         "projectName": "Calculadora.WebAppMVC",
-        "projectPath": "d:\\Projetos - PontoSys\\Calculadora\\src\\Calculadora.WebAppMVC\\Calculadora.WebAppMVC.csproj",
-        "packagesPath": "C:\\Users\\Diogo_Note\\.nuget\\packages\\",
-        "outputPath": "d:\\Projetos - PontoSys\\Calculadora\\src\\Calculadora.WebAppMVC\\obj\\",
+        "projectPath": "C:\\Users\\Diogo\\Source\\Repos\\Calculadora\\src\\Calculadora.WebAppMVC\\Calculadora.WebAppMVC.csproj",
+        "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diogo\\Source\\Repos\\Calculadora\\src\\Calculadora.WebAppMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diogo_Note\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -60,10 +62,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

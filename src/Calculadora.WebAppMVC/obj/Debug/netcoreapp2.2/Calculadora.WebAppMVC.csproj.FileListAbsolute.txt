@@ -26,3 +26,35 @@ d:\Projetos - PontoSys\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreap
 d:\Projetos - PontoSys\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.dll
 d:\Projetos - PontoSys\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.pdb
 d:\Projetos - PontoSys\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.csproj.CopyComplete
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\Calculadora.WebAppMVC.deps.json
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\Calculadora.WebAppMVC.runtimeconfig.json
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\Calculadora.WebAppMVC.runtimeconfig.dev.json
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\Calculadora.WebAppMVC.dll
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\Calculadora.WebAppMVC.pdb
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\Calculadora.WebAppMVC.Views.dll
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\bin\Debug\netcoreapp2.2\Calculadora.WebAppMVC.Views.pdb
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.csprojAssemblyReference.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.AssemblyInfoInputs.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.AssemblyInfo.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.RazorAssemblyInfo.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.RazorAssemblyInfo.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.TagHelpers.input.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.TagHelpers.output.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.RazorCoreGenerate.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.Views.pdb
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.dll
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.pdb
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.genruntimeconfig.cache
+C:\Users\Diogo\Source\Repos\Calculadora\src\Calculadora.WebAppMVC\obj\Debug\netcoreapp2.2\Calculadora.WebAppMVC.csproj.CopyComplete
